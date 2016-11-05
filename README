@@ -1,1 +1,6 @@
-ROTATION
+To run on the command line:
+1. Execute mac_run
+2. Follow the instructions to input the names of lifeguards working and the first and last hours of their shifts.
+3. The program will output the optimal 30-minute rotation schedule that the lifeguards should follow!
+
+
